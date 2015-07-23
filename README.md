@@ -32,8 +32,3 @@ bind shift + c "cl_crosshaircolor 4;";
 # Custom Crosshir Color GREEN
 bind shift + v "cl_crosshaircolor 1;";
 ```
-
-## Quick Settings for COPY PASTING to console...
-```shell
-fps_max 256; cl_updaterate 128; cl_cmdrate 128; cl_interp 0; cl_interp_ratio 1; rate 128000; cl_crosshairstyle 4;cl_crosshairdot 1;cl_crosshairusealpha 0;cl_crosshairalpha 255;cl_crosshaircolor 5;cl_crosshaircolor_b 255;cl_crosshaircolor_r 255;cl_crosshaircolor_g 0; bind z "cl_crosshairsize 23;cl_crosshairthickness 0.2;cl_crosshairgap -3;cl_crosshair_drawoutline 1;"; bind x "cl_crosshairsize 17;cl_crosshairthickness 0.2;cl_crosshairgap -3;cl_crosshair_drawoutline 1;"; bind c "cl_crosshairsize  0;cl_crosshairthickness   2;cl_crosshairgap 0;cl_crosshair_drawoutline 0;cl_fixedcrosshairgap 0;cl_crosshair_outlinethickness 0;"; bind shift + z "cl_crosshaircolor 5;cl_crosshaircolor_b 255;cl_crosshaircolor_r 255;cl_crosshaircolor_g 255;"; bind shift + x "cl_crosshaircolor 5;cl_crosshaircolor_b 255;cl_crosshaircolor_r 255;cl_crosshaircolor_g 0;"; bind shift + c "cl_crosshaircolor 4;"; bind shift + v "cl_crosshaircolor 1;";
-```
