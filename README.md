@@ -18,7 +18,7 @@ alias chx_pistol "cl_crosshairsize  0;cl_crosshairthickness 2;cl_crosshairgap 0;
 alias chx_ak "cl_crosshairsize 23;cl_crosshairthickness 0.2;cl_crosshairgap -3;cl_crosshair_drawoutline 1; bind x chx_ak;";
 
 # M4 CrossHair
-alias chx_m4 "cl_crosshairsize 17;cl_crosshairthickness 0.2;cl_crosshairgap -3;cl_crosshair_drawoutline 1; bind x chx_pistol;";
+alias chx_m4 "cl_crosshairsize 17;cl_crosshairthickness 0.2;cl_crosshairgap -3;cl_crosshair_drawoutline 1; bind x chx_ak;";
 
 # Custom Crosshir Color WHITE
 alias chc_1 "cl_crosshaircolor 5;cl_crosshaircolor_b 255;cl_crosshaircolor_r 255;cl_crosshaircolor_g 255; bind c chc_2;";
