@@ -15,7 +15,7 @@ cl_crosshairstyle 4;cl_crosshairdot 1;cl_crosshairusealpha 0;cl_crosshairalpha 2
 alias chx_pistol "cl_crosshairsize  0;cl_crosshairthickness 2;cl_crosshairgap 0;cl_crosshair_drawoutline 0;cl_fixedcrosshairgap 0;cl_crosshair_outlinethickness 0; bind x chx_m4;";
 
 # AK CrossHair
-alias chx_ak "cl_crosshairsize 23;cl_crosshairthickness 0.2;cl_crosshairgap -3;cl_crosshair_drawoutline 1; bind x chx_ak;";
+alias chx_ak "cl_crosshairsize 23;cl_crosshairthickness 0.2;cl_crosshairgap -3;cl_crosshair_drawoutline 1; bind x chx_pistol;";
 
 # M4 CrossHair
 alias chx_m4 "cl_crosshairsize 17;cl_crosshairthickness 0.2;cl_crosshairgap -3;cl_crosshair_drawoutline 1; bind x chx_ak;";
