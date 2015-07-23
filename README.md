@@ -3,5 +3,5 @@
 ## Settings
 ```shell
 # Settings for launch options
--high -novid -threads 4 +exec ~/Projects/mxaddict/csgofiles/autoexec.cfg
+-high -novid -threads 4 +exec autoexec.cfg
 ```
