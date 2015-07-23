@@ -32,6 +32,9 @@ alias chc_3 "cl_crosshaircolor 4; bind c chc_4;";
 # Custom Crosshir Color GREEN
 alias chc_4 "cl_crosshaircolor 1; bind c chc_1";
 
-# Default cross_hair bind is for chc_2
+# Default cross_hair color is for chc_2
 bind c chc_2;
+
+# Default cross hair stye is for chx_pistol
+bind x chx_pistol;
 ```
