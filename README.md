@@ -3,5 +3,5 @@
 ## Settings
 ```shell
 # Settings for launch options
--high -novid -threads 4 -tickrate 128
+-high -novid -threads 4 -tickrate 128 +exec mx_autoexec.cfg
 ```
