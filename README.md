@@ -3,8 +3,8 @@
 ## Settings
 ```shell
 # Settings for launch options
--high -novid -threads 8 -tickrate 128 +exec mx_autoexec.cfg
+-high -novid -nojoy -threads 8 -tickrate 128 +exec mx_autoexec.cfg
 
 # Settings for launch options on 144hz monitor
--high -novid -threads 8 -tickrate 128 +exec mx_autoexec.cfg -refresh 144
+-high -novid -nojoy -threads 8 -tickrate 128 +exec mx_autoexec.cfg -refresh 144
 ```
