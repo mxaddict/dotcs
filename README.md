@@ -2,5 +2,5 @@
 
 ## Settings
 ```shell
-mangohud %command% -novid -nojoy +exec mx_autoexec.cfg +exec mx_autoexec.cfg -vulkan  -sdlaudiodriver pipewire
+mangohud %command%  +exec mx_autoexec.cfg -sdlaudiodriver pipewire
 ```
