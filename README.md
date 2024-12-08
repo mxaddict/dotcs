@@ -1,6 +1,5 @@
 # CS2 Settings
 
-## Settings
-```shell
+```sh
 mangohud %command% +exec mx_autoexec.cfg
 ```
