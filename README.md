@@ -1,4 +1,4 @@
-# README CS2 Settings
+# CS2 Settings
 
 ## Settings
 ```shell
