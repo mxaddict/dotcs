@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+# vi: ft=sh
+
+rm $HOME/.local/share/Steam/steamapps/common/Counter-Strike\ Global\ Offensive/game/csgo/cfg/mx.cfg
+ln -s $HOME/.cs/mx.cfg $HOME/.local/share/Steam/steamapps/common/Counter-Strike\ Global\ Offensive/game/csgo/cfg/mx.cfg
